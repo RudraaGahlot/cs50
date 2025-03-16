@@ -1,0 +1,16 @@
+DATA TYPES 
+    - bool
+    - string
+    - int
+    - float
+    - char
+    - double
+    - long
+    ...
+
+PLACEHOLDER IN c 
+    - %s
+    - %i 
+    - %f 
+    - %li
+    - %c 
