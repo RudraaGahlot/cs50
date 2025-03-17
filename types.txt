@@ -14,3 +14,12 @@ PLACEHOLDER IN c
     - %f 
     - %li
     - %c 
+
+OPERATORS IN c  
+    - '=' -> use to assign value or copy  value from right to left.
+    - '==' -> use to check is left side eqauls to the right side.
+    - '!=' -> use to check is left side not eqauls to the right side.
+    - '>'  -> use to check left is greater than right side.
+    - '<' -> use to check left is smaller than right side.
+    - '>=' -> use to check left side is greater than or equal to right side.
+    - '<=' -> use to check left side is smaller than or eqauls to right side.
