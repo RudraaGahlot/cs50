@@ -1,0 +1,7 @@
+What is acutally happening underneeth the hood?
+
+when you run program called make their are four things simentaneously running underneerh  the hood
+    - preprocessing (anything with # in the starting of that particular line is a library that contain some function that someone has wrote for us. In this preprocessing step it simply goes to that library and copy paste all of the code and replace it with your library integration).
+    - compiling (In this step our code which we write in c lang or any other lang further converts in a other lang called assembly code that your cpu, intel , m1, m2 m3 chip understand).
+    - assembling (in this step the assembly code finally converts into 0s and 1s).
+    - linking (in this step compiler links all the file that has included in your code).

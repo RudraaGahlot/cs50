@@ -1,11 +1,11 @@
 DATA TYPES 
-    - bool
-    - string
-    - int
-    - float
-    - char
-    - double
-    - long
+    - bool (1 byte = 8 bits)
+    - string ()
+    - int (4 byte = 32 bits)
+    - float (4 byte = 32 bits)
+    - char (1 byte) 
+    - double (8 byte = 64 bits)
+    - long (8 byte = 64 bits)
     ...
 
 PLACEHOLDER IN c 

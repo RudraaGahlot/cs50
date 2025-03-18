@@ -1,0 +1,13 @@
+1. ARRAY
+    - A array is a sequence of contigous in  memory all of which are similar data types.
+        Array's and other data structures are 0-indexed means it start counting with 0 to n-1 (size of the data structure - 1)
+
+    syntax of initialing an array
+    - data_type array_name [size_of_array].
+    for example ->  int score[4];
+                ->  int subject[6]; 
+
+    for initialising each value of the array or we say indexes we can simple do that by:
+        array_name[index] = value;
+        for example -> score[0] = 72;
+                    -> subject[0] = 1;
