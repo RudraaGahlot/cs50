@@ -11,3 +11,9 @@
         array_name[index] = value;
         for example -> score[0] = 72;
                     -> subject[0] = 1;
+
+2.  STRING 
+    - Similarly as array, string are also a sequence of contigous in memory but string only contain char data type.
+        these are also 0-indexed but unlike other data structure string uses one extra space in the memory.
+        explaination: because string can be any length and we do not define any particular size of a string, computer underneerh the hood alocate one extra space to the string to knows where the string ends and it store a spceial char '\0' which known as nul.
+        that's why we use double quotes to represent string and single quote to represent the char that really the diff. b/w char and string. 
